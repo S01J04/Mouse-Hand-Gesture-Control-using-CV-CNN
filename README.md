@@ -27,11 +27,6 @@ The project consists of four main Python files:
 - Python 3.x
 - Install the required packages with the following command:
 
-```bash
-pip install -r requirements.txt
-```
-
-Note: If you don't have a `requirements.txt` file yet, you can create one by running `pip freeze > requirements.txt` after installing the necessary libraries.
 
 ### Required Libraries
 
